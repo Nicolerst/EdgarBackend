@@ -1,0 +1,2 @@
+module PlateauSessionsHelper
+end
